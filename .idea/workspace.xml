@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f2c1ea1-49a9-452f-8c80-1ad5ee9310e4" name="Changes" comment="">
+    <list default="true" id="5f2c1ea1-49a9-452f-8c80-1ad5ee9310e4" name="Changes" comment="80% done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,8 +50,16 @@
       <workItem from="1637773196631" duration="14000" />
       <workItem from="1638025258535" duration="4986000" />
       <workItem from="1638123657712" duration="7428000" />
-      <workItem from="1638171706008" duration="860000" />
+      <workItem from="1638171706008" duration="2010000" />
     </task>
+    <task id="LOCAL-00001" summary="80% done">
+      <created>1638173712006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638173712006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +76,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="80% done" />
+    <option name="LAST_COMMIT_MESSAGE" value="80% done" />
   </component>
 </project>
